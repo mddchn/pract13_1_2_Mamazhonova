@@ -1,0 +1,16 @@
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\bin\Debug\net5.0\pract13_1_mamazhonova.exe
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\bin\Debug\net5.0\pract13_1_mamazhonova.deps.json
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\bin\Debug\net5.0\pract13_1_mamazhonova.runtimeconfig.json
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\bin\Debug\net5.0\pract13_1_mamazhonova.runtimeconfig.dev.json
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\bin\Debug\net5.0\pract13_1_mamazhonova.dll
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\bin\Debug\net5.0\ref\pract13_1_mamazhonova.dll
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\bin\Debug\net5.0\pract13_1_mamazhonova.pdb
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\obj\Debug\net5.0\pract13_1_mamazhonova.csproj.AssemblyReference.cache
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\obj\Debug\net5.0\pract13_1_mamazhonova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\obj\Debug\net5.0\pract13_1_mamazhonova.AssemblyInfoInputs.cache
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\obj\Debug\net5.0\pract13_1_mamazhonova.AssemblyInfo.cs
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\obj\Debug\net5.0\pract13_1_mamazhonova.csproj.CoreCompileInputs.cache
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\obj\Debug\net5.0\pract13_1_mamazhonova.dll
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\obj\Debug\net5.0\ref\pract13_1_mamazhonova.dll
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\obj\Debug\net5.0\pract13_1_mamazhonova.pdb
+C:\Users\305-7\Desktop\Mamazhonova\основы алгоритмизации\pract13_1_mamazhonova\pract13_1_mamazhonova\obj\Debug\net5.0\pract13_1_mamazhonova.genruntimeconfig.cache

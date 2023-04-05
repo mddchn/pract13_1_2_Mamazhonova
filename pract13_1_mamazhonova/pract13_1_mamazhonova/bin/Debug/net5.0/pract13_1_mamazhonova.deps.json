@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pract13_1_mamazhonova/1.0.0": {
+        "runtime": {
+          "pract13_1_mamazhonova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pract13_1_mamazhonova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
